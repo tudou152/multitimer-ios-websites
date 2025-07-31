@@ -1,0 +1,28 @@
+{
+    "author": "DuguTechStudio",
+    "description": "Instructions for using the timer",
+    "links": {
+        "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "all": []
+        }
+    },
+    "plugins": [
+        "remove-published-with-link",
+        "search-plus",
+        "mtime",
+        "meta"
+    ],
+    "pluginsConfig": {
+        "mtime":{
+            "prefix":"",
+            "postfix":"<span style=\"float:right\"></span>"
+        },
+        "meta": {
+            "name": "referrer",
+            "content": "no-referrer"
+        }
+    },
+    "language": "zh-hans"
+}
